@@ -2,6 +2,7 @@ export const team = [
   { id: 1, name: 'Ayesha Khan', role: 'Design Lead', initials: 'AK' },
   { id: 2, name: 'Daniel Ruiz', role: 'Frontend Engineer', initials: 'DR' },
   { id: 3, name: 'Mira Sato', role: 'Product Strategist', initials: 'MS' },
+  { id: 4, name: 'Ali Iftikhar Butt', role: 'CEO', initials: 'AB' },
 ];
 
 export const milestones = [
